@@ -3,6 +3,4 @@ Repository Management Lab
 
 
 Notes
-
-Merge Conflict Simulation
-
+Merge Conflict Testing
